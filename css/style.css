@@ -64,7 +64,7 @@ a:hover {
 }
 .social-media-icon {
   font-size: 28px;
-  padding: 0 25px;
+  padding: 0 10px;
   cursor: pointer;
   transition: opacity 0.3s;
   -webkit-transition: opacity 0.3s;
