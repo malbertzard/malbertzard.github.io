@@ -20,7 +20,7 @@ a:hover {
 }
 .main {
   height: 100vh;
-  width: 50%;
+  width: 100%;
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/back.jpg');
   background-size: cover;
   background-position: center;
@@ -46,7 +46,8 @@ a:hover {
   background-image: url('../images/IMG_20180612_162041.jpg');
   background-size: cover;
   border-radius: 50%;
-  text-align: center;
+  
+  border:1px solid #fff;
 }
 .container > h1 {
   margin: 40px 0 0 0;
