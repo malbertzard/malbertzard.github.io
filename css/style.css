@@ -45,7 +45,7 @@ a:hover {
   height: 200px;
   background-image: url('../images/IMG_20180612_162041.jpg');
   background-size: cover;
-  border-radius: 50%;
+  border-radius: 50px;
   
   border:1px solid #fff;
 }
