@@ -1,0 +1,58 @@
+baseURL = 'http://example.org/'
+title = 'Malbertzard Profile'
+
+theme = "hugo-coder"
+languageCode = 'en-us'
+defaultcontentlanguage = "de"
+
+paginate = 20
+
+# disqusShortname = "yourdiscussshortname"
+
+[markup.highlight]
+style = "github-dark"
+
+[params]
+  author = "Mathis Albertzard"
+  info = "Stupid Dev doing stupid stuff"
+  description = "Mathis Albertzard personal website"
+  keywords = "blog,developer,personal"
+  gravatar = "malbertzard@gmail.com"
+
+  faviconSVG = "/img/favicon.svg"
+  favicon_32 = "/img/favicon-32x32.png"
+  favicon_16 = "/img/favicon-16x16.png"
+
+  since = 2023
+
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+  # customCSS = ["css/custom.css"]
+  # customSCSS = ["scss/custom.scss"]
+  # customJS = ["js/custom.js"]
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/malbertzard/"
+
+# Menu links
+[[menu.main]]
+  name = "Blog"
+  weight = 1
+  url  = "posts/"
+[[menu.main]]
+  name = "About"
+  weight = 2
+  url = "about/"
