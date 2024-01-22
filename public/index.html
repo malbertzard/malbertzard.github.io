@@ -1,0 +1,33 @@
+<html>
+    <head>
+        <title>HTMX Example</title>
+        <link href="./styles.css" rel="stylesheet" />
+        <script src="https://unpkg.com/htmx.org"></script>
+    </head>
+
+    <body>
+        <div class="flex flex-col min-h-screen bg-[color:var(--fg)] text-[#ebdbb2]">
+            <div
+                id="header"
+                hx-get="/section/header"
+                hx-trigger="load"
+                class="w-full"
+            ></div>
+
+            <div
+                id="main"
+                hx-get="/section/main"
+                hx-trigger="load"
+            ></div>
+
+            <div
+                id="footer"
+                hx-get="/section/footer"
+                hx-trigger="load"
+                class="w-full"
+            ></div>
+        </div>
+
+
+    </body>
+</html>
