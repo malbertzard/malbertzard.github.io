@@ -11,7 +11,7 @@ type TemplateHandler struct {
 }
 
 func NewTemplateHandler(templateFile string) *TemplateHandler {
-	templatePath := filepath.Join("templates", templateFile)
+	templatePath := filepath.Join("../templates", templateFile)
 	tmpl, err := template.ParseFiles(templatePath)
 	if err != nil {
 		panic(err)

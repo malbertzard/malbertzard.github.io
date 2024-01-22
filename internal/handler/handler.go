@@ -5,7 +5,7 @@ import (
 )
 
 func StylesHandler(w http.ResponseWriter, r *http.Request) {
-	http.ServeFile(w, r, "../../public/styles.css")
+	http.ServeFile(w, r, "../../static/styles.css")
 }
 
 func HeaderHandler(w http.ResponseWriter, r *http.Request) {

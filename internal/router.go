@@ -1,8 +1,8 @@
-package main
+package internal
 
 import (
 	"log"
-	handlers "malbertzard_homepage/server/handler"
+	handlers "malbertzard_homepage/internal/handler"
 	"net/http"
 )
 
@@ -11,7 +11,7 @@ var Routes = []struct {
 	Handler http.Handler
 }{
 	// Style elements
-	{"/", http.FileServer(http.Dir("../public"))},
+	{"/", http.FileServer(http.Dir("../static/"))},
 
 	{"/section/styles/", http.HandlerFunc(handlers.StylesHandler)},
 
@@ -28,7 +28,7 @@ var Routes = []struct {
 	{"/page/contact", http.HandlerFunc(handlers.PageContactHandler)},
 }
 
-func main() {
+func Route() {
 	for _, route := range Routes {
 		http.Handle(route.Path, route.Handler)
 	}
