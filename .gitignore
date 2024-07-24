@@ -3,3 +3,5 @@ tmp
 server/tmp
 package-lock.json
 go.sum
+
+/.quarto/
