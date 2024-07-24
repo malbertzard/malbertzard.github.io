@@ -1,6 +1,6 @@
 ---
 title: "About"
-image: ../assets/profile.jpeg
+image: assets/profile.jpeg
 about:
   template: solana
   links:

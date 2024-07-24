@@ -1,17 +1,17 @@
 [
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Why write a blog and why use Quarto",
-    "section": "",
-    "text": "This is a post with executable code."
-  },
-  {
-    "objectID": "content/index.html",
-    "href": "content/index.html",
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "Home",
     "section": "",
     "text": "This is the homepage here i write a short introduction into what this website is about"
+  },
+  {
+    "objectID": "content/posts/post-with-code/index.html",
+    "href": "content/posts/post-with-code/index.html",
+    "title": "Why write a blog and why use Quarto",
+    "section": "",
+    "text": "This is a post with executable code."
   },
   {
     "objectID": "content/about.html",
@@ -46,13 +46,6 @@
     "href": "content/posts.html",
     "title": "Posts",
     "section": "",
-    "text": "No matching items"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Home",
-    "section": "",
-    "text": "This is the homepage here i write a short introduction into what this website is about"
+    "text": "Why write a blog and why use Quarto\n\n\n\n\n\n\n\n\n\n\n\nJul 24, 2024\n\n\nMathis Albertzard\n\n\n\n\n\n\nNo matching items"
   }
 ]
