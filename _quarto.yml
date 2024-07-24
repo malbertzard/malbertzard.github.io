@@ -6,15 +6,16 @@ website:
   title: "malbertzard"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - ./content/posts.qmd
+    right:
+      - ./content/about.qmd
+      - icon: github
+        href: https://github.com/malbertzard
 
 format:
   html:
-    theme: cosmo
+    theme: litera
     css: styles.css
-    toc: true
 
 
 

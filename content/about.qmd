@@ -1,0 +1,28 @@
+---
+title: "About"
+image: ../assets/profile.jpeg
+about:
+  template: solana
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/malbertzard
+
+---
+
+# About
+
+## TLDR
+
+- I live in the terminal.
+- I am a Free and Open Source Software (FOSS) enthusiast.
+- Neovim is my home.
+- I love exploring new programming languages.
+
+## Introduction
+
+Hello, I'm Mathis, a Dev from Germany I specialize in backend development with expertise in PHP and Python. And I am currently diving into Golang.
+
+## Professional Background
+I have extensive experience with PHP, particularly in Laravel and Symfony, working across the entire stack in both frameworks. Additionally, I've gained professional experience with Golang, specifically in creating CLI tools to enhance developer experience. In my free time and during my education, I've explored many other programming languages, with a particular emphasis on Python.
+

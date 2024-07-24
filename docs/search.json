@@ -1,16 +1,58 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "malbertzard",
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Why write a blog and why use Quarto",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "This is a post with executable code."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
+    "objectID": "content/index.html",
+    "href": "content/index.html",
+    "title": "Home",
+    "section": "",
+    "text": "This is the homepage here i write a short introduction into what this website is about"
+  },
+  {
+    "objectID": "content/about.html",
+    "href": "content/about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "I live in the terminal.\nI am a Free and Open Source Software (FOSS) enthusiast.\nNeovim is my home.\nI love exploring new programming languages.\n\n\n\n\nHello, I’m Mathis, a Dev from Germany I specialize in backend development with expertise in PHP and Python. And I am currently diving into Golang.\n\n\n\nI have extensive experience with PHP, particularly in Laravel and Symfony, working across the entire stack in both frameworks. Additionally, I’ve gained professional experience with Golang, specifically in creating CLI tools to enhance developer experience. In my free time and during my education, I’ve explored many other programming languages, with a particular emphasis on Python."
+  },
+  {
+    "objectID": "content/about.html#tldr",
+    "href": "content/about.html#tldr",
+    "title": "About",
+    "section": "",
+    "text": "I live in the terminal.\nI am a Free and Open Source Software (FOSS) enthusiast.\nNeovim is my home.\nI love exploring new programming languages."
+  },
+  {
+    "objectID": "content/about.html#introduction",
+    "href": "content/about.html#introduction",
+    "title": "About",
+    "section": "",
+    "text": "Hello, I’m Mathis, a Dev from Germany I specialize in backend development with expertise in PHP and Python. And I am currently diving into Golang."
+  },
+  {
+    "objectID": "content/about.html#professional-background",
+    "href": "content/about.html#professional-background",
+    "title": "About",
+    "section": "",
+    "text": "I have extensive experience with PHP, particularly in Laravel and Symfony, working across the entire stack in both frameworks. Additionally, I’ve gained professional experience with Golang, specifically in creating CLI tools to enhance developer experience. In my free time and during my education, I’ve explored many other programming languages, with a particular emphasis on Python."
+  },
+  {
+    "objectID": "content/posts.html",
+    "href": "content/posts.html",
+    "title": "Posts",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "This is the homepage here i write a short introduction into what this website is about"
   }
 ]

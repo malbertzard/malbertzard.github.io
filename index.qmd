@@ -1,7 +1,5 @@
 ---
-title: "malbertzard"
+title: "Home"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+This is the homepage here i write a short introduction into what this website is about
