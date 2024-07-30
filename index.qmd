@@ -2,4 +2,17 @@
 title: "Home"
 ---
 
-This is the homepage here i write a short introduction into what this website is about
+Welcome to my brain dumb.
+
+This is where all **my** thoughts and projects come to hang out, including but definitely not limited to:
+
+- Software Development
+- Cool Software Tools
+- Programming
+- Mathematics
+
+Feel free to browse around and see what I’m up to!
+
+No don't take this serious
+
+Yes I mean what I write here

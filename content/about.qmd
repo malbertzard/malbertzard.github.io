@@ -10,8 +10,6 @@ about:
 
 ---
 
-# About
-
 ## TLDR
 
 - I live in the terminal.
@@ -21,8 +19,9 @@ about:
 
 ## Introduction
 
-Hello, I'm Mathis, a Dev from Germany I specialize in backend development with expertise in PHP and Python. And I am currently diving into Golang.
+Hey there! I’m Mathis, a Dev from Germany. I specialize in backend development with PHP and Python. Right now, I’m diving into Golang.
+Professional Background
 
-## Professional Background
-I have extensive experience with PHP, particularly in Laravel and Symfony, working across the entire stack in both frameworks. Additionally, I've gained professional experience with Golang, specifically in creating CLI tools to enhance developer experience. In my free time and during my education, I've explored many other programming languages, with a particular emphasis on Python.
+I’ve got a ton of experience with PHP, especially in Laravel and Symfony, doing the full stack thing in both. Lately, I've been messing around with Golang, making CLI tools to make dev life suck less. In my free time, and when I should have been paying attention in class, I’ve played with a bunch of other programming languages, with a soft spot for Python.
 
+So, yeah, that’s me. Poke around if you’re curious.

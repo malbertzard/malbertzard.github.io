@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "This is the homepage here i write a short introduction into what this website is about"
+    "text": "Welcome to my brain dumb.\nThis is where all my thoughts and projects come to hang out, including but definitely not limited to:\n\nSoftware Development\nCool Software Tools\nProgramming\nMathematics\n\nFeel free to browse around and see what I’m up to!\nNo don’t take this serious\nYes I mean what I write here"
   },
   {
     "objectID": "content/posts/post-with-code/index.html",
@@ -18,7 +18,7 @@
     "href": "content/about.html",
     "title": "About",
     "section": "",
-    "text": "I live in the terminal.\nI am a Free and Open Source Software (FOSS) enthusiast.\nNeovim is my home.\nI love exploring new programming languages.\n\n\n\n\nHello, I’m Mathis, a Dev from Germany I specialize in backend development with expertise in PHP and Python. And I am currently diving into Golang.\n\n\n\nI have extensive experience with PHP, particularly in Laravel and Symfony, working across the entire stack in both frameworks. Additionally, I’ve gained professional experience with Golang, specifically in creating CLI tools to enhance developer experience. In my free time and during my education, I’ve explored many other programming languages, with a particular emphasis on Python."
+    "text": "I live in the terminal.\nI am a Free and Open Source Software (FOSS) enthusiast.\nNeovim is my home.\nI love exploring new programming languages."
   },
   {
     "objectID": "content/about.html#tldr",
@@ -31,8 +31,8 @@
     "objectID": "content/about.html#introduction",
     "href": "content/about.html#introduction",
     "title": "About",
-    "section": "",
-    "text": "Hello, I’m Mathis, a Dev from Germany I specialize in backend development with expertise in PHP and Python. And I am currently diving into Golang."
+    "section": "Introduction",
+    "text": "Introduction\nHey there! I’m Mathis, a Dev from Germany. I specialize in backend development with PHP and Python. Right now, I’m diving into Golang. Professional Background\nI’ve got a ton of experience with PHP, especially in Laravel and Symfony, doing the full stack thing in both. Lately, I’ve been messing around with Golang, making CLI tools to make dev life suck less. In my free time, and when I should have been paying attention in class, I’ve played with a bunch of other programming languages, with a soft spot for Python.\nSo, yeah, that’s me. Poke around if you’re curious."
   },
   {
     "objectID": "content/about.html#professional-background",
