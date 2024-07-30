@@ -3,6 +3,7 @@ title: "Why write a blog and why use Quarto"
 author: "Mathis Albertzard"
 date: "2024-07-24"
 image: "image.jpg"
+draft: true
 ---
 
 This is a post with executable code.
