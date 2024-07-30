@@ -6,9 +6,9 @@ website:
   title: "malbertzard"
   navbar:
     left:
-      - ./content/posts.qmd
+      - content/posts.qmd
     right:
-      - ./content/about.qmd
+      - content/about.qmd
       - icon: github
         href: https://github.com/malbertzard
 
