@@ -78,9 +78,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: [{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
+      searchColumns: [],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -203,34 +203,7 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1722470400000" data-listing-file-modified-sort="1723148494299" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="666">
-<div class="thumbnail">
-<p><a href="../content/posts/config-as-code/index.html" class="no-external"></a></p><a href="../content/posts/config-as-code/index.html" class="no-external">
-<p><img loading="lazy" src="../content/posts/config-as-code/image.jpg" class="thumbnail-image"></p>
-</a><p><a href="../content/posts/config-as-code/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../content/posts/config-as-code/index.html" class="no-external">The unlikely story of two fighting brothers and what it tells us about configs</a>
-</h3>
-<div class="listing-subtitle">
-<a href="../content/posts/config-as-code/index.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="../content/posts/config-as-code/index.html" class="no-external">I’ve always found the debate between Vim and Emacs to be fascinating. Why are these two editors still being compared today?</a>
-</div>
-</div>
-<div class="metadata">
-<a href="../content/posts/config-as-code/index.html" class="no-external">
-<div class="listing-date">
-Aug 1, 2024
-</div>
-<div class="listing-author">
-Mathis Albertzard
-</div>
-</a>
-</div>
-</div>
+
 </div>
 <div class="listing-no-matching d-none">
 No matching items
