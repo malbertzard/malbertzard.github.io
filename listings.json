@@ -1,6 +1,8 @@
 [
   {
     "listing": "/content/posts.html",
-    "items": []
+    "items": [
+      "/content/posts/config-as-code/index.html"
+    ]
   }
 ]
