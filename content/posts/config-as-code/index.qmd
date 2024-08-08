@@ -3,7 +3,7 @@ title: "The unlikely story of two fighting brothers and what it tells us about c
 author: "Mathis Albertzard"
 date: "2024-08-01"
 image: "image.jpg"
-draft: false
+draft: true
 ---
 
 # The Unlikely Story of Two Fighting Brothers and What It Tells Us About Configs
